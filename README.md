@@ -1,7 +1,7 @@
 ### Hi there, I'm Paweł 👋
 
 #### I'm a Full Stack Developer from Poland.
-[Page](pawel.sikowski.me) | [LinkedIn](https://www.linkedin.com/in/pawe%C5%82-sikowski-2b1b521b1/)
+[Page](https://www.pawel.sikowski.me) | [LinkedIn](https://www.linkedin.com/in/pawe%C5%82-sikowski-2b1b521b1/)
 _________________________________________________
 
 - ⚙️ I use daily: `.js` `.ts` `.vue` `.json` `.html` `.css`
