@@ -1,4 +1,5 @@
-### Hi there, I'm Paweł 👋
+ (WIP)
+ ### Hi there, I'm Paweł 👋
 
 #### I'm a Full Stack Developer from Poland.
 
