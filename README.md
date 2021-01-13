@@ -1,7 +1,7 @@
 ### Hi there, I'm Paweł 👋
 
 #### I'm a Backend Developer @ [GABOS Software](https://gabos.com.pl/en/homepage/) from Poland.
-Full Stack after work...
+Full Stack after work...  
 [Page](https://pawel.sikowski.me) | [LinkedIn](https://www.linkedin.com/in/pawe%C5%82-sikowski-2b1b521b1/)
 _________________________________________________
 
